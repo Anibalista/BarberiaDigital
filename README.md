@@ -14,7 +14,7 @@ Este proyecto utiliza **Docker** para la base de datos, por lo que no necesitas 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Anibalista/MiBarberiaDigital.git](https://github.com/Anibalista/MiBarberiaDigital.git)
+   git clone https://github.com/Anibalista/BarberiaDigital.git
    
 2. Levantar la Base de Datos: Abre una terminal en la carpeta raíz del proyecto y ejecuta:
    ```bash
